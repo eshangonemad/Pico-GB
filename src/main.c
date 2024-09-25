@@ -66,14 +66,14 @@
 #include "gbcolors.h"
 
 /* GPIO Connections. */
-#define GPIO_UP		2
-#define GPIO_DOWN	3
-#define GPIO_LEFT	4
-#define GPIO_RIGHT	5
-#define GPIO_A		6
-#define GPIO_B		7
-#define GPIO_SELECT	8
-#define GPIO_START	9
+#define GPIO_UP		5
+#define GPIO_DOWN	7
+#define GPIO_LEFT	6
+#define GPIO_RIGHT	8
+#define GPIO_A		12
+#define GPIO_B		13
+#define GPIO_SELECT	14
+#define GPIO_START	15
 #define GPIO_CS		17
 #define GPIO_CLK	18
 #define GPIO_SDA	19
